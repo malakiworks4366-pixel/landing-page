@@ -43,3 +43,29 @@ header{
    font-size:30px;
    margin-top: 20px;
 }
+
+
+.display{
+    background-color: white;
+    display: flex;
+    height: 50%;
+    width: 100%;
+    padding: 0px;
+    gap: 10px;
+}
+#sideway{
+    
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.big{
+width: 50%;
+height: 100%;
+}
+#small{
+    
+    width: 100%;
+    height: 49%;
+}
